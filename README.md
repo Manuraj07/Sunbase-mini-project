@@ -52,4 +52,26 @@
 ![image](https://github.com/user-attachments/assets/5aed3443-e2dd-4d06-9f57-85ddb354d902)
 
 
-###  
+###  My Tamplate
+
+
+![image](https://github.com/user-attachments/assets/d6a2e2cc-ca00-4e0f-b694-d10a0eb613cc)
+
+
+
+### Search functionality
+![image](https://github.com/user-attachments/assets/244e3ae6-61e9-4ae0-8247-cab1bda939bd)
+
+
+### Write About the Blogs
+
+![image](https://github.com/user-attachments/assets/4c3aed15-bd0b-4654-ae15-be7e58e3e851)
+
+
+![image](https://github.com/user-attachments/assets/82d4658f-0498-4532-917c-2f4fc081110e)
+
+
+
+### Blogs Updated Sucessfully
+
+![image](https://github.com/user-attachments/assets/885afc68-afbc-4a20-9da9-2c841164dbf0)
