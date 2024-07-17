@@ -20,21 +20,36 @@
 
 ### Admin Login (UserName = admin@gmail.com , PassWord = admin )
 
+
 ### Welcome Admin Page
 
 ![image](https://github.com/user-attachments/assets/8df6530e-dc16-44d6-b9c3-040b9728386b)
 
 ### Add New Templates to User Section
+![image](https://github.com/user-attachments/assets/ee2d9922-2b77-4352-97af-b27a0dca1d50)
 
-![image](https://github.com/user-attachments/assets/79dba439-e858-4566-ae80-fd3a82e95c3b)
 
-
-![image](https://github.com/user-attachments/assets/bb8dad26-96e7-4e68-8289-84a54bbc8d83)
 
 ### Add SucessFully
 
+![image](https://github.com/user-attachments/assets/9794e13d-9d8d-4c23-8a2f-12ce72ff6031)
+
+
 ![image](https://github.com/user-attachments/assets/8868feb8-685b-471e-beff-2d0e11528d54)
 
+### Blog Editing
+
+![image](https://github.com/user-attachments/assets/13b29f95-b8e3-48aa-8e9b-349d86c445d5)
+
+![image](https://github.com/user-attachments/assets/239b7b04-224a-4e13-846e-fb6035831c6d)
 
 
+### Update Sucessfully
 
+![image](https://github.com/user-attachments/assets/6a52acbb-2428-4481-a988-06738108ae17)
+
+### Admin Page Logout
+![image](https://github.com/user-attachments/assets/5aed3443-e2dd-4d06-9f57-85ddb354d902)
+
+
+###  
