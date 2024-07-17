@@ -75,3 +75,23 @@
 ### Blogs Updated Sucessfully
 
 ![image](https://github.com/user-attachments/assets/885afc68-afbc-4a20-9da9-2c841164dbf0)
+
+
+
+
+### Edit Details of Users
+
+![image](https://github.com/user-attachments/assets/98cdf844-0815-45d2-8e01-9bf2bfe888b4)
+
+### Password not Valid
+
+![image](https://github.com/user-attachments/assets/3d500429-e98d-4a51-9694-772a6d09c13d)
+
+
+
+![image](https://github.com/user-attachments/assets/9f1020a7-3a5a-49ab-babd-c0b117f17488)
+
+
+
+![image](https://github.com/user-attachments/assets/58fa1a46-9a21-4454-a264-d874d1f408b1)
+
